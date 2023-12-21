@@ -28,14 +28,14 @@ Access permissions to files and directories were not aligned with organizational
 
 <p align="center">
 Change File Permissions: <br/>
-<img src="https://i.imgur.com/mDUkBEP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jr2E1bU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Change File Permissions On Hidden File:  <br/>
-<img src="https://i.imgur.com/31S9Izm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ao6dj9h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Change Directory Permissions:  <br/>
-<img src="https://i.imgur.com/39siV7H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8GBIcUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
