@@ -16,7 +16,7 @@ Access permissions to files and directories were not aligned with organizational
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>LinuxOS CLI</b> 
 
 <h2>Environments Used </h2>
 
