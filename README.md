@@ -1,8 +1,15 @@
 <h1>Correct File Permissions in Linux Home Lab</h1>
 
 <h2>Description and Summary</h2>
-An organization is working to make their system more secure. It is my job to ensure the system is safe, investigate all potential security issues, and update employee computers as needed. The following steps provide examples of how I used SQL with filters to perform security-related tasks.
-I applied filters to SQL queries to get specific information on login attempts and employee machines. I used two different tables, log_in_attempts and employees. I used the AND, OR, and NOT operators to filter for the specific information needed for each task. I also used LIKE and the (%) wildcard to filter for patterns.
+Access permissions to files and directories were not aligned with organizational guidelines. With the help of Linux the file and directory permissions can be set in order.
+<h2>Tasks completed during project</h2>
+
+- File and directory details checked with ls -la command
+- Permission string “drwxrwxrwx” explained
+- Removed writing access for other on the project_k.txt file
+- Modified permissions for user and group on the hidden .project_x.txt file to ensure read access and remove write permissions
+- Removed execute permissions on the drafts directory for group so that it is only accessible for the user.
+
 
 <br />
 
