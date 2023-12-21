@@ -27,25 +27,17 @@ Access permissions to files and directories were not aligned with organizational
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Retrieve Failed Log In Attempts After Working Hours: <br/>
+Change File Permissions: <br/>
 <img src="https://i.imgur.com/mDUkBEP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Retrieve Log In Attempts On Specific Dates:  <br/>
+Change File Permissions On Hidden File:  <br/>
 <img src="https://i.imgur.com/31S9Izm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Retrieve Log In Attempts Outside Mexico:  <br/>
+Change Directory Permissions:  <br/>
 <img src="https://i.imgur.com/39siV7H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Retrieve Employees In Marketing:  <br/>
-<img src="https://i.imgur.com/cOLgGxY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Retrieve Employees In Finance Or Sales:  <br/>
-<img src="https://i.imgur.com/UuJQRU2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-Retrieve All Employees Not In Sales:  <br/>
-<img src="https://i.imgur.com/ckbjyCR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 
 <!--
  ```diff
